@@ -21,3 +21,9 @@ import db.sql to you database
 
 ```
 ***
+
+## Username and Password
+```
+username : admin
+password : admin
+```
